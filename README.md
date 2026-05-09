@@ -1,2 +1,4 @@
 # Catatan Kuliah
-Membuat file catatan kuliah
+Mata kuliah:
+- Basis Data
+- Pemrograman Web
