@@ -3,3 +3,6 @@ Mata kuliah:
 - Basis Data
 - Pemrograman Web
 Semester: 2
+mata kuliah:
+- ERP
+- Machine learning
