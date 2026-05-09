@@ -1,2 +1,2 @@
-# aditya_Rachman_code
-Project sederhana catatan kuliah mahasiswa
+# Catatan Kuliah
+Membuat file catatan kuliah
